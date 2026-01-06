@@ -115,13 +115,8 @@ NOTE : `getHit()` and `getUniqueVisitor()` just return the value, so you have to
 
 ### Connect me
 
-If you have any query, feel free to contact me at jafranhasan@outlook.com 
+If you have any query, feel free to contact me at mail@jafran.info
 
-[Jafran Hasan](http://jafran.returnxero.com) 
+[Jafran Hasan](mailto:mail@jafran.info) 
 
-Dhaka Polytechnic Institute . 
-
-www.btebresults.com
-
-www.returnxero.com
 
